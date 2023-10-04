@@ -6,7 +6,7 @@
 	<form>
 		<input type="text" placeholder="input username"/>
 		<input type="text" placeholder="input password"/>
-		<input type="button" value="Sumbit"/>
+		<input type="button" value="Sumbit 1"/>
 				
 	</form>
 </div>
